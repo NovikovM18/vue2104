@@ -292,7 +292,7 @@ body {
     }
   }
   
-  &-close {
+  &__close {
     position: absolute;
     width: max-content;
     right: 4px;
